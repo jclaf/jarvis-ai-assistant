@@ -1,1 +1,1 @@
-# jarvis-ai-assistante
+# jarvis-ai-assistant
